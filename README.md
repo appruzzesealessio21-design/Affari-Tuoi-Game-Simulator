@@ -21,7 +21,7 @@ All'avvio, il giocatore viene accolto da un header dorato personalizzato. La gri
 
 | Header Dinamico | Griglia di Selezione |
 | :---: | :---: |
-| ![Header](images/screenshot_header.png) | ![Griglia](images/screenshot_grid.png) |
+| ![Header](images/screenshot_header.png) 
 | *Visualizzazione del giocatore e del pacco in possesso.* | *Selezione iniziale tra i 20 pacchi disponibili.* |
 
 ### 2. Fase di Gioco e Reveal
@@ -41,7 +41,7 @@ Al termine della sfida, il sistema confronta l'offerta accettata (o il pacco ten
 
 | Riepilogo Vincita | Verdetto del Pacco |
 | :---: | :---: |
-| ![Vincita](images/screenshot_win.png) | ![Reveal Finale](images/screenshot_final_reveal.png) |
+| | ![Reveal Finale](images/screenshot_final_reveal.png) |
 | *Visualizzazione della vincita finale ottenuta.* | *Confronto tra premio nel pacco e offerta accettata.* |
 
 ---
